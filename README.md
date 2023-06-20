@@ -1,0 +1,1 @@
+A Simple QRCode Component
